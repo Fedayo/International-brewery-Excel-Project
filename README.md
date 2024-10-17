@@ -29,8 +29,8 @@ This helps to determine which brands have the highest production costs and where
 Comparing these costs to the associated Profit also allows you to assess the profitability of each brand relative to its production costs.
 
 - In 2017, the brand with the cheapest cost production is beta malt
-- In 2018, the brand with the chheapest cost production is grand malt
-- In 2019, the brand with the chheapest cost production is beta malt
+- In 2018, the brand with the cheapest cost production is grand malt
+- In 2019, the brand with the cheapest cost production is beta malt
 - over the 3 years, it costs more to produce Budweiser compared to other products
 
 ## SALES REP PERFORMANCE ANALYSIS
