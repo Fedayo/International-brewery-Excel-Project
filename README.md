@@ -1,3 +1,6 @@
+# Project Overview
+  This Data Analysis project aims to generate insights into the sales perfomance of international breweries project over a period of 3 years
+  
 # International-Brewery-Excel-Project
   I got the already cleaned data set from the Incubator hub bootcamp, so I just used pivot table to make my analysis, the dataset ranges from 2017 to 2019.
   - I did sales perfomance analysis
@@ -40,5 +43,6 @@ The Sales rep performance analysis is a critical process for to evaluate the eff
 
 
 
+![EXCEL](https://github.com/user-attachments/assets/f393e050-efe5-4663-8b93-b58c7a6fba76)
 
 
